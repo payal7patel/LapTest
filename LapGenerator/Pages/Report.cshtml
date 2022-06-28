@@ -1,0 +1,30 @@
+﻿@page
+@model ReportModel
+@{
+    ViewData["Title"] = "Lap Report";
+}
+<meta http-equiv="refresh" content="5" />
+<div class="text-center">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Race</th>
+                <th scope="col">Driver</th>
+                <th scope="col">Car #</th>
+                <th scope="col">Avg Lap Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var lap in @Model.Laps)
+            {
+                <tr>
+                    <td>@lap.RaceName</td>
+                    <td>@lap.DriverName</td>
+                    <td>@lap.CarNumber</td>
+                    <td>@lap.TimeSpan</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>

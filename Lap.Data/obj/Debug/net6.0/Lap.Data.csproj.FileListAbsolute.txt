@@ -1,0 +1,14 @@
+C:\Users\Payal Patel\OneDrive\Desktop\LapTest\Lap.Data\bin\Debug\net6.0\Lap.Data.deps.json
+C:\Users\Payal Patel\OneDrive\Desktop\LapTest\Lap.Data\bin\Debug\net6.0\Lap.Data.runtimeconfig.json
+C:\Users\Payal Patel\OneDrive\Desktop\LapTest\Lap.Data\bin\Debug\net6.0\Lap.Data.dll
+C:\Users\Payal Patel\OneDrive\Desktop\LapTest\Lap.Data\bin\Debug\net6.0\Lap.Data.pdb
+C:\Users\Payal Patel\OneDrive\Desktop\LapTest\Lap.Data\obj\Debug\net6.0\Lap.Data.csproj.AssemblyReference.cache
+C:\Users\Payal Patel\OneDrive\Desktop\LapTest\Lap.Data\obj\Debug\net6.0\Lap.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal Patel\OneDrive\Desktop\LapTest\Lap.Data\obj\Debug\net6.0\Lap.Data.AssemblyInfoInputs.cache
+C:\Users\Payal Patel\OneDrive\Desktop\LapTest\Lap.Data\obj\Debug\net6.0\Lap.Data.AssemblyInfo.cs
+C:\Users\Payal Patel\OneDrive\Desktop\LapTest\Lap.Data\obj\Debug\net6.0\Lap.Data.csproj.CoreCompileInputs.cache
+C:\Users\Payal Patel\OneDrive\Desktop\LapTest\Lap.Data\obj\Debug\net6.0\Lap.Data.dll
+C:\Users\Payal Patel\OneDrive\Desktop\LapTest\Lap.Data\obj\Debug\net6.0\refint\Lap.Data.dll
+C:\Users\Payal Patel\OneDrive\Desktop\LapTest\Lap.Data\obj\Debug\net6.0\Lap.Data.pdb
+C:\Users\Payal Patel\OneDrive\Desktop\LapTest\Lap.Data\obj\Debug\net6.0\Lap.Data.genruntimeconfig.cache
+C:\Users\Payal Patel\OneDrive\Desktop\LapTest\Lap.Data\obj\Debug\net6.0\ref\Lap.Data.dll

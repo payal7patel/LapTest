@@ -1,0 +1,36 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col" hidden>#</th>
+                <th scope="col">Race</th>
+                <th scope="col">Lap #</th>
+                <th scope="col">Driver</th>
+                <th scope="col">Car #</th>
+                <th scope="col">Lap Time</th>
+                <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var lap in @Model.Laps)
+            {
+                <tr>
+                    <th scope="row" hidden>@lap.Id</th>
+                    <td>@lap.RaceName</td>
+                    <td>@lap.LapNumber</td>
+                    <td>@lap.DriverName</td>
+                    <td>@lap.CarNumber</td>
+                    <td>@lap.TimeSpan</td>
+                    <td><a href="Lap?id=@lap.Id">EDIT</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
